@@ -8,4 +8,20 @@ This repo contains all files and instructions needed to build ROAR.
 
 Current kRPC dependency: kRPC 0.4.5
 
+Please read https://krpc.github.io/krpc/cpp/client.html#using-the-library
+
 This is WIP. Please enjoy nonetheless and feel free to file issues.
+
+Intended use:
+
+Use the space center node to manage vessels and select the active vessel.
+
+Use the active vessel node to control the active vessel.
+
+Create dedicated nodes for individual vessels if required.
+
+Add or remove krpc maneuver ndoes from the vessels to manage maneuver nodes.
+
+All celestial bodies have their own nodes, but you may prefer to use kRPC directly.
+
+The purpose of ROAR is not to hide kRPC away, but to provide a Ros2 API to your rocket as if it were physical.
