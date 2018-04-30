@@ -6,6 +6,6 @@ ROAR exports KSP's API via Ros2. It is built on top of kRPC and requires the kRP
 
 This repo contains all files and instructions needed to build ROAR.
 
-Current kRPC dependency: kRPC 0.45
+Current kRPC dependency: kRPC 0.4.5
 
 This is WIP. Please enjoy nonetheless and feel free to file issues.
