@@ -20,8 +20,8 @@ Use the active vessel node to control the active vessel.
 
 Create dedicated nodes for individual vessels if required.
 
-Add or remove krpc maneuver ndoes from the vessels to manage maneuver nodes.
+Add or remove kRPC maneuver nodes from the vessels to manage maneuver nodes.
 
 All celestial bodies have their own nodes, but you may prefer to use kRPC directly.
 
-The purpose of ROAR is not to hide kRPC away, but to provide a Ros2 API to your rocket as if it were physical.
+The purpose of ROAR is not to hide kRPC away, but to provide a Ros2 API to your rocket as if it was physical.
