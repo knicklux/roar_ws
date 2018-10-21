@@ -1,0 +1,18 @@
+repositories:
+  ksc:
+    type: git
+    url: git@github.com:knicko/roar_ksc.git
+    version: master
+  vessel:
+    type: git
+    url: git@github.com:knicko/roar_vessel.git
+    version: master
+  celestial:
+    type: git
+    url: git@github.com:knicko/roar_celestial.git
+    version: master
+  maneuver:
+    type: git
+    url: git@github.com:knicko/roar_maneuver.git
+    version: master
+
