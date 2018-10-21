@@ -14,5 +14,9 @@ repositories:
   maneuver:
     type: git
     url: git@github.com:knicko/roar_maneuver.git
+    version: master  maneuver:
+  roar_msg:
+    type: git
+    url: git@github.com:knicko/roar_msg.git
     version: master
 
